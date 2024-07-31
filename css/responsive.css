@@ -1,0 +1,9 @@
+@media (max-width: 355px) {
+  .header-1 ul li a input[type='search'] {
+    width: 90%;
+  }
+
+  .header-1 {
+    text-align: end;
+  }
+}
